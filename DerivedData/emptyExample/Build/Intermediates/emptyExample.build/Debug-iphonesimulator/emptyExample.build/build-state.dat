@@ -1,0 +1,832 @@
+TemptyExample
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Info.plist /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/ofxiOS-Info.plist
+cCpResource Project.xcconfig DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Project.xcconfig
+cCpResource /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/CoreOF.xcconfig
+cCpResource bin/data/Icon@2x.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon@2x.png
+cCpResource bin/data/Icon.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon.png
+cCpResource bin/data/Default.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default.png
+cCpResource bin/data/Default@2x.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default@2x.png
+cCpResource bin/data/Default-568h@2x~iphone.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default-568h@2x~iphone.png
+cProcessPCH++ /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-hlgrefajhkkrlgegeecrbzfqjgya/ofxiOS_Prefix.pch.pch ofxiOS_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/main.o /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/testApp.o /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/testApp.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/emptyExample normal i386
+cGenerateDSYMFile /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app.dSYM /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/emptyExample
+cPhaseScriptExecution Run\ Script /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Script-9255DD331112741900D6945E.sh
+cTouch /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000521BCCE50000000000000176
+t1377553637
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052404A2700000000000003B5
+t1379944999
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052404A4C000000000000019E
+t1379945036
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c0000000052404A53000000000047C8A0
+t1379945043
+s4704416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000052404A540000000000902E30
+t1379945044
+s9449008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052404A560000000000445830
+t1379945046
+s4479024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000052404A5600000000000EC820
+t1379945046
+s968736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c0000000052404A570000000000133B60
+t1379945047
+s1260384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000052404A58000000000004B000
+t1379945048
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052404A5C000000000088B570
+t1379945052
+s8959344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c0000000052404A5F00000000002C77C0
+t1379945055
+s2914240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c0000000052404A61000000000007C070
+t1379945057
+s508016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000052404A640000000000037620
+t1379945060
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052404A650000000000484860
+t1379945061
+s4737120
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052404A700000000001DB1C90
+t1379945072
+s31136912
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-hlgrefajhkkrlgegeecrbzfqjgya/ofxiOS_Prefix.pch.pch
+t1380042847
+s6251596
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/emptyExample.LinkFileList
+c000000005241C85E00000000000001A7
+t1380042846
+s423
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/main.o
+t1380042849
+s131540
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/testApp.o
+t1380042849
+s121348
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Script-9255DD331112741900D6945E.sh
+c000000005241C85E0000000000000042
+t1380042846
+s66
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app
+t1380042858
+s680
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app.dSYM
+t2
+s0
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/CoreOF.xcconfig
+t1380042846
+s2601
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default-568h@2x~iphone.png
+t1380042858
+s10961
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default.png
+t1380042858
+s10345
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default@2x.png
+t1380042858
+s10737
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon.png
+t1380042858
+s4444
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon@2x.png
+t1380042859
+s7179
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Info.plist
+t1380042846
+s955
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/PkgInfo
+t1380042846
+s8
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Project.xcconfig
+t1380042846
+s452
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/emptyExample
+t1380042855
+s14628488
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/Project.xcconfig
+c00000000520738E000000000000001C4
+t1376205024
+s452
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/bin/data/Default-568h@2x~iphone.png
+c000000005229FE930000000000002AD1
+t1378483859
+s10961
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/bin/data/Default.png
+c000000005229FFC30000000000002869
+t1378484163
+s10345
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/bin/data/Default@2x.png
+c000000005229FFA700000000000029F1
+t1378484135
+s10737
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/bin/data/Icon.png
+c000000005229FEBA000000000000115C
+t1378483898
+s4444
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/bin/data/Icon@2x.png
+c000000005229FEAC0000000000001C0B
+t1378483884
+s7179
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/ofxiOS-Info.plist
+c00000000520738E000000000000005C6
+t1376205024
+s1478
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/ofxiOS_Prefix.pch
+c00000000520738E000000000000000B5
+t1376205024
+s181
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/main.mm
+c00000000520738E0000000000000009E
+t1376205024
+s158
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/testApp.mm
+c00000000520738E00000000000000593
+t1376205024
+s1427
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworksCompiled/lib/ios/libofxiOS_iphonesimulator_Debug.a
+c0000000052404FDE0000000002F3BA58
+t1379946462
+s49527384
+
+N/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig
+c00000000520738AE0000000000000A29
+t1376204974
+s2601
+
+CBuild AST from /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/main.mm
+r0
+
+CBuild AST from /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/testApp.mm
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd593e1defff1b741^dae6e2defff1b741^---0#1#1#--18"Check dependencies36"E037CB11-EB94-4C3A-AFE1-73B84D4A6D10-
+
+CCompileC DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/main.o /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s401735647.749978
+e401735649.235423
+r1
+xCompileC
+xDerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/main.o
+x/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/main.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/main.mm
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/ofMain.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofConstants.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/tess2/include/tesselator.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofFileUtils.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/File.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Foundation.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Config.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Platform.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Platform_POSIX.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Bugcheck.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Types.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Timestamp.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/File_UNIX.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofLog.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/types/ofTypes.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/types/ofColor.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofMath.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/types/ofPoint.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofVec3f.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofVec2f.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofVec4f.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Mutex.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Exception.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/ScopedLock.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Mutex_POSIX.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofSystemUtils.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofThread.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Thread.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Thread_POSIX.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Runnable.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SignalHandler.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Event.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Event_POSIX.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/RefCountedObject.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/AtomicCounter.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/AutoPtr.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofURLFileLoader.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/events/ofEvents.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/events/ofEventUtils.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/PriorityEvent.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/AbstractEvent.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SingletonHolder.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SharedPtr.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/ActiveResult.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/ActiveMethod.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/ActiveRunnable.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/ActiveStarter.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/ThreadPool.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/PriorityStrategy.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/NotificationStrategy.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/AbstractPriorityDelegate.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/AbstractDelegate.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/PriorityDelegate.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/PriorityExpire.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/FunctionPriorityDelegate.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/events/ofDelegate.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Condition.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/ScopedUnlock.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofUtils.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Path.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/types/ofBaseTypes.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/types/ofRectangle.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/3d/ofMesh.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofGLUtils.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofPixels.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofMatrix4x4.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofQuaternion.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofXml.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/Document.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/XML.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/AbstractNode.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/Node.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/EventTarget.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/DOMObject.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/XMLString.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/NamespaceSupport.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/MutationEvent.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/Event.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/DocumentEvent.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/Element.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/Name.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/NamePool.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/AutoReleasePool.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/DocumentFragment.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/DOMParser.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/SAXParser.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/XMLReader.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/ParserEngine.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/expat.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/expat_external.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/XMLStream.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/Locator.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/TextEncoding.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/DOMException.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/XMLException.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/SAXException.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/XMLWriter.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/ContentHandler.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/LexicalHandler.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/DTDHandler.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/StreamConverter.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/UnbufferedStreamBuf.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/StreamUtil.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/DOMWriter.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/Attr.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/Text.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/CharacterData.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/NodeIterator.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/NodeFilter.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/NamedNodeMap.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/ChildNodesList.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/NodeList.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/types/ofParameter.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/types/ofParameterGroup.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Any.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofVectorMath.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofMatrix3x3.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofFbo.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofTexture.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofVboMesh.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofVbo.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofGLRenderer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofPolyline.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofGraphics.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofMatrixStack.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofLight.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/3d/ofNode.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/3d/of3dUtils.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/of3dGraphics.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/3d/of3dPrimitives.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofMaterial.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofShader.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/app/ofAppBaseWindow.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofImage.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofPath.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofTessellator.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofRendererCollection.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofTrueTypeFont.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/app/ofBaseApp.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/app/ofAppRunner.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/sound/ofSoundStream.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/sound/ofBaseSoundStream.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/sound/ofxiOSSoundStream.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/sound/ofSoundPlayer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/sound/ofxiOSSoundPlayer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/video/ofVideoGrabber.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/video/ofxiOSVideoGrabber.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/video/ofVideoPlayer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/video/ofxiOSVideoPlayer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/3d/ofCamera.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/3d/ofEasyCam.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/testApp.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/ofxiOS.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxAccelerometer/src/ofxAccelerometer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/events/ofxiOSAlerts.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/events/ofxiOSAlertsListener.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/app/ofxiOSApp.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxMultiTouch/src/ofxMultiTouch.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxMultiTouch/src/ofxMultiTouchListener.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/utils/ofxiOSExtras.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/app/ofAppiOSWindow.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/core/ofxiOSAppDelegate.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/core/ofxiOSEAGLView.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/gl/EAGLView.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/gl/ESRenderer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/utils/ofxiOSKeyboard.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/utils/ofxiOSCoreLocation.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/utils/ofxiOSImagePicker.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/utils/ofxiOSMapKit.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/utils/ofxiOSMapKitListener.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/main.mm222"CompileC DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/main.o src/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compilerd72fc0dffff1b741^ed453ce1fff1b741^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/main.mm0000000000000000^5632"CompileC DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/main.o src/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wno-protocol -Wdeprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -iquote /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/emptyExample-generated-files.hmap -I/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/emptyExample-own-target-headers.hmap -I/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/emptyExample-all-target-headers.hmap -iquote /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/emptyExample-project-headers.hmap -I/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiOS -I../../../addons/ofxiOS/src -I../../../addons/ofxiOS/src/app -I../../../addons/ofxiOS/src/core -I../../../addons/ofxiOS/src/events -I../../../addons/ofxiOS/src/gl -I../../../addons/ofxiOS/src/sound -I../../../addons/ofxiOS/src/utils -I../../../addons/ofxiOS/src/video -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -I../../../libs/openssl/include -Isrc -I/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/DerivedSources/i386 -I/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/DerivedSources -F/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator -include /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-hlgrefajhkkrlgegeecrbzfqjgya/ofxiOS_Prefix.pch -MMD -MT dependencies -MF /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/main.dia -c /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/main.mm -o /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/main.o36"B3666469-D62F-4642-84D3-5223C692DFED-
+bE1EDE9FD-E290-49B4-A31E-E67D24B04942
+
+CCompileC DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/testApp.o /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/testApp.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s401735647.750626
+e401735649.230782
+r1
+xCompileC
+xDerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/testApp.o
+x/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/testApp.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/testApp.mm
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/testApp.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/ofMain.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofConstants.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/tess2/include/tesselator.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofFileUtils.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/File.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Foundation.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Config.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Platform.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Platform_POSIX.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Bugcheck.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Types.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Timestamp.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/File_UNIX.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofLog.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/types/ofTypes.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/types/ofColor.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofMath.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/types/ofPoint.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofVec3f.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofVec2f.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofVec4f.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Mutex.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Exception.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/ScopedLock.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Mutex_POSIX.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofSystemUtils.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofThread.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Thread.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Thread_POSIX.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Runnable.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SignalHandler.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Event.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Event_POSIX.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/RefCountedObject.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/AtomicCounter.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/AutoPtr.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofURLFileLoader.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/events/ofEvents.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/events/ofEventUtils.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/PriorityEvent.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/AbstractEvent.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SingletonHolder.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SharedPtr.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/ActiveResult.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/ActiveMethod.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/ActiveRunnable.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/ActiveStarter.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/ThreadPool.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/PriorityStrategy.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/NotificationStrategy.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/AbstractPriorityDelegate.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/AbstractDelegate.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/PriorityDelegate.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/PriorityExpire.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/FunctionPriorityDelegate.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/events/ofDelegate.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Condition.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/ScopedUnlock.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofUtils.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Path.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/types/ofBaseTypes.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/types/ofRectangle.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/3d/ofMesh.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofGLUtils.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofPixels.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofMatrix4x4.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofQuaternion.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofXml.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/Document.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/XML.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/AbstractNode.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/Node.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/EventTarget.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/DOMObject.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/XMLString.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/NamespaceSupport.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/MutationEvent.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/Event.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/DocumentEvent.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/Element.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/Name.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/NamePool.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/AutoReleasePool.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/DocumentFragment.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/DOMParser.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/SAXParser.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/XMLReader.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/ParserEngine.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/expat.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/expat_external.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/XMLStream.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/Locator.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/TextEncoding.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/DOMException.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/XMLException.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/SAXException.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/XML/XMLWriter.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/ContentHandler.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/LexicalHandler.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/SAX/DTDHandler.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/StreamConverter.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/UnbufferedStreamBuf.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/StreamUtil.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/DOMWriter.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/Attr.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/Text.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/CharacterData.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/NodeIterator.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/NodeFilter.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/NamedNodeMap.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/ChildNodesList.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/DOM/NodeList.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/types/ofParameter.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/types/ofParameterGroup.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/include/Poco/Any.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofVectorMath.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/math/ofMatrix3x3.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofFbo.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofTexture.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofVboMesh.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofVbo.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofGLRenderer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofPolyline.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofGraphics.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/utils/ofMatrixStack.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofLight.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/3d/ofNode.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/3d/of3dUtils.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/of3dGraphics.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/3d/of3dPrimitives.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofMaterial.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofShader.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/app/ofAppBaseWindow.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofImage.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofPath.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofTessellator.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofRendererCollection.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/graphics/ofTrueTypeFont.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/app/ofBaseApp.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/app/ofAppRunner.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/sound/ofSoundStream.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/sound/ofBaseSoundStream.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/sound/ofxiOSSoundStream.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/sound/ofSoundPlayer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/sound/ofxiOSSoundPlayer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/video/ofVideoGrabber.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/video/ofxiOSVideoGrabber.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/video/ofVideoPlayer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/video/ofxiOSVideoPlayer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/3d/ofCamera.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworks/3d/ofEasyCam.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/ofxiOS.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxAccelerometer/src/ofxAccelerometer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/events/ofxiOSAlerts.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/events/ofxiOSAlertsListener.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/app/ofxiOSApp.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxMultiTouch/src/ofxMultiTouch.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxMultiTouch/src/ofxMultiTouchListener.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/utils/ofxiOSExtras.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/app/ofAppiOSWindow.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/core/ofxiOSAppDelegate.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/core/ofxiOSEAGLView.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/gl/EAGLView.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/gl/ESRenderer.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/utils/ofxiOSKeyboard.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/utils/ofxiOSCoreLocation.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/utils/ofxiOSImagePicker.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/utils/ofxiOSMapKit.h
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/addons/ofxiOS/src/utils/ofxiOSMapKitListener.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/testApp.mm228"CompileC DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/testApp.o src/testApp.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler1a4fc0dffff1b741^882b3be1fff1b741^---0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/testApp.mm0000000000000000^5650"CompileC DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/testApp.o src/testApp.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wno-protocol -Wdeprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -iquote /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/emptyExample-generated-files.hmap -I/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/emptyExample-own-target-headers.hmap -I/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/emptyExample-all-target-headers.hmap -iquote /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/emptyExample-project-headers.hmap -I/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiOS -I../../../addons/ofxiOS/src -I../../../addons/ofxiOS/src/app -I../../../addons/ofxiOS/src/core -I../../../addons/ofxiOS/src/events -I../../../addons/ofxiOS/src/gl -I../../../addons/ofxiOS/src/sound -I../../../addons/ofxiOS/src/utils -I../../../addons/ofxiOS/src/video -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -I../../../libs/openssl/include -Isrc -I/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/DerivedSources/i386 -I/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/DerivedSources -F/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator -include /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-hlgrefajhkkrlgegeecrbzfqjgya/ofxiOS_Prefix.pch -MMD -MT dependencies -MF /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/testApp.d --serialize-diagnostics /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/testApp.dia -c /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/src/testApp.mm -o /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/testApp.o36"766E675B-94F9-477B-ACA5-915F933C7B26-
+bE1EDE9FD-E290-49B4-A31E-E67D24B04942
+
+CCpResource /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/CoreOF.xcconfig
+s401735646.899629
+e401735646.902736
+r1
+xCpResource
+x/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig
+xDerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/CoreOF.xcconfig
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/CoreOF.xcconfig214"CpResource /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/CoreOF.xcconfigc45ce6defff1b741^8620e7defff1b741^---0#0#1#-19%DVTDocumentLocation2@188"file://localhost/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/CoreOF.xcconfig00384026dcffdf42^999"CpResource /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/CoreOF.xcconfig    cd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app36"6A350EA0-87FD-40B8-A8A4-5DF6EB7B5C96-
+bE1EDE9FD-E290-49B4-A31E-E67D24B04942
+
+CCpResource Project.xcconfig DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Project.xcconfig
+s401735646.899065
+e401735646.902720
+r1
+xCpResource
+xProject.xcconfig
+xDerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Project.xcconfig
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Project.xcconfig123"CpResource Project.xcconfig DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Project.xcconfig5340e6defff1b741^081ee7defff1b741^---0#0#1#-19%DVTDocumentLocation2@189"file://localhost/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Project.xcconfig00384026dcffdf42^894"CpResource Project.xcconfig DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Project.xcconfig    cd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/Project.xcconfig /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app36"24CCE14C-7877-47E2-80A5-A9CC8AD02E79-
+bE1EDE9FD-E290-49B4-A31E-E67D24B04942
+
+CCpResource bin/data/Default-568h@2x~iphone.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default-568h@2x~iphone.png
+s401735646.976010
+e401735646.979781
+r1
+xCpResource
+xbin/data/Default-568h@2x~iphone.png
+xDerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default-568h@2x~iphone.png152"CpResource bin/data/Default-568h@2x~iphone.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default-568h@2x~iphone.pngc8eff9defff1b741^d6e3fadefff1b741^---0#0#1#-19%DVTDocumentLocation2@199"file://localhost/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default-568h@2x~iphone.png00384026dcffdf42^942"CpResource bin/data/Default-568h@2x~iphone.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default-568h@2x~iphone.png    cd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/bin/data/Default-568h@2x~iphone.png /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app36"385FD4E1-60C7-41FA-B588-C9BEFDCE2C83-
+bE1EDE9FD-E290-49B4-A31E-E67D24B04942
+
+CCpResource bin/data/Default.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default.png
+s401735646.951393
+e401735646.974591
+r1
+xCpResource
+xbin/data/Default.png
+xDerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default.png122"CpResource bin/data/Default.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default.png66a3f3defff1b741^c77ff9defff1b741^---0#0#1#-19%DVTDocumentLocation2@184"file://localhost/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default.png00384026dcffdf42^897"CpResource bin/data/Default.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default.png    cd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/bin/data/Default.png /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app36"5F9A7A76-020A-4E56-9AA8-38B3946F6B33-
+bE1EDE9FD-E290-49B4-A31E-E67D24B04942
+
+CCpResource bin/data/Default@2x.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default@2x.png
+s401735646.955498
+e401735646.979395
+r1
+xCpResource
+xbin/data/Default@2x.png
+xDerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default@2x.png128"CpResource bin/data/Default@2x.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default@2x.png93abf4defff1b741^1ae0fadefff1b741^---0#0#1#-19%DVTDocumentLocation2@187"file://localhost/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default@2x.png00384026dcffdf42^906"CpResource bin/data/Default@2x.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Default@2x.png    cd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/bin/data/Default@2x.png /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app36"A20A09C5-3AC0-4161-BFF6-66DB99F5E932-
+bE1EDE9FD-E290-49B4-A31E-E67D24B04942
+
+CCpResource bin/data/Icon.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon.png
+s401735646.904549
+e401735646.954218
+r1
+xCpResource
+xbin/data/Icon.png
+xDerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon.png116"CpResource bin/data/Icon.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon.pnge59de7defff1b741^0249f4defff1b741^---0#0#1#-19%DVTDocumentLocation2@181"file://localhost/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon.png00384026dcffdf42^888"CpResource bin/data/Icon.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon.png    cd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/bin/data/Icon.png /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app36"BD2B0111-9AB1-4820-B6E1-52C6D0EC3F63-
+bE1EDE9FD-E290-49B4-A31E-E67D24B04942
+
+CCpResource bin/data/Icon@2x.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon@2x.png
+s401735646.904055
+e401735646.950033
+r1
+xCpResource
+xbin/data/Icon@2x.png
+xDerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon@2x.png122"CpResource bin/data/Icon@2x.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon@2x.pnge17fe7defff1b741^cf49f3defff1b741^---0#0#1#-19%DVTDocumentLocation2@184"file://localhost/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon@2x.png00384026dcffdf42^897"CpResource bin/data/Icon@2x.png DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Icon@2x.png    cd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/bin/data/Icon@2x.png /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app36"8DE713E0-B3D0-4E21-A879-CC6DFDF15A47-
+bE1EDE9FD-E290-49B4-A31E-E67D24B04942
+
+CGenerateDSYMFile /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app.dSYM /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/emptyExample
+s401735655.995046
+e401735658.537017
+r1
+xGenerateDSYMFile
+x/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app.dSYM
+x/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/emptyExample
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection170"Generate /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app.dSYM192"GenerateDSYMFile DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app.dSYM DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/emptyExample50e3fee7fff1b741^787a89eafff1b741^---0#0#1#-19%DVTDocumentLocation2@177"file://localhost/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app.dSYM00384026dcffdf42^908"GenerateDSYMFile DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app.dSYM DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/emptyExample    cd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/emptyExample -o /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app.dSYM36"237A093F-876F-4D3E-B0D4-E15A42DFEBAA-
+bE1EDE9FD-E290-49B4-A31E-E67D24B04942
+
+CLd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/emptyExample normal i386
+s401735649.245047
+e401735655.986320
+r1
+xLd
+x/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/emptyExample
+xnormal
+xi386
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/emptyExample.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/main.o
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/testApp.o
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/FreeImage/lib/osx/freeimage.a
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/freetype/lib/ios/freetype.a
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/lib/ios/PocoNet.a
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/lib/ios/PocoNetSSL.a
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/lib/ios/PocoCrypto.a
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/lib/ios/PocoXML.a
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/lib/ios/PocoZip.a
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/lib/ios/PocoUtil.a
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/poco/lib/ios/PocoFoundation.a
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/tess2/lib/ios/tess2.a
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/glu/lib/ios/glu.a
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openssl/lib/ios/ssl.a
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openssl/lib/ios/crypto.a
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworksCompiled/lib/ios/libofxiOS_iphonesimulator_Debug.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libstdc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libc++abi.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+old: warning: ignoring file ../../../libs/FreeImage/lib/ios/freeimage.a, missing required architecture i386 in file ../../../libs/FreeImage/lib/ios/freeimage.a (2 slices)
+old: warning: ignoring file ../../../libs/glu/lib/ios/glu-ios.a, missing required architecture i386 in file ../../../libs/glu/lib/ios/glu-ios.a (2 slices)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection174"Link /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/emptyExample106"Ld DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/emptyExample normal i386e0d53ee1fff1b741^73befce7fff1b741^-324"ld: warning: ignoring file ../../../libs/FreeImage/lib/ios/freeimage.a, missing required architecture i386 in file ../../../libs/FreeImage/lib/ios/freeimage.a (2 slices)ld: warning: ignoring file ../../../libs/glu/lib/ios/glu-ios.a, missing required architecture i386 in file ../../../libs/glu/lib/ios/glu-ios.a (2 slices)2(21%IDEActivityLogMessage2@156"Ignoring file ../../../libs/FreeImage/lib/ios/freeimage.a, missing required architecture i386 in file ../../../libs/FreeImage/lib/ios/freeimage.a (2 slices)-401735649#0#170#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@140"Ignoring file ../../../libs/glu/lib/ios/glu-ios.a, missing required architecture i386 in file ../../../libs/glu/lib/ios/glu-ios.a (2 slices)-401735650#170#154#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--0#0#1#--2741"Ld DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/emptyExample normal i386    cd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator -F/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator -filelist /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/emptyExample.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC ../../../libs/FreeImage/lib/osx/freeimage.a ../../../libs/freetype/lib/ios/freetype.a ../../../libs/FreeImage/lib/ios/freeimage.a ../../../libs/poco/lib/ios/PocoNet.a ../../../libs/poco/lib/ios/PocoNetSSL.a ../../../libs/poco/lib/ios/PocoCrypto.a ../../../libs/poco/lib/ios/PocoXML.a ../../../libs/poco/lib/ios/PocoZip.a ../../../libs/poco/lib/ios/PocoUtil.a ../../../libs/poco/lib/ios/PocoFoundation.a ../../../libs/tess2/lib/ios/tess2.a ../../../libs/glu/lib/ios/glu.a ../../../libs/glu/lib/ios/glu-ios.a ../../../libs/openssl/lib/ios/ssl.a ../../../libs/openssl/lib/ios/crypto.a -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=3.1 /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/libs/openFrameworksCompiled/lib/ios/libofxiOS_iphonesimulator_Debug.a -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -framework QuartzCore -framework AudioToolbox -framework OpenAL -framework CoreLocation -framework CoreGraphics -framework AVFoundation -framework CoreMedia -framework CoreVideo -framework MapKit -Xlinker -dependency_info -Xlinker /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/emptyExample_dependency_info.dat -o /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/emptyExample36"225152FF-CDD3-456D-9F87-2234007E8B6D-
+bE1EDE9FD-E290-49B4-A31E-E67D24B04942
+
+CPhaseScriptExecution Run\ Script /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Script-9255DD331112741900D6945E.sh
+s401735658.546509
+e401735659.017327
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Script-9255DD331112741900D6945E.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'172"PhaseScriptExecution Run\ Script DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Script-9255DD331112741900D6945E.shaaef8ceafff1b741^da7004ebfff1b741^---0#0#1#--29281"PhaseScriptExecution Run\ Script DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Script-9255DD331112741900D6945E.sh    cd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER ann-kristinabel    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv ALWAYS_USE_SEPARATE_HEADERMAPS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD i386    setenv ARCHS_STANDARD_32_64_BIT i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv ARCHS_STANDARD_INCLUDING_64_BIT "i386 x86_64"    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products    setenv BUILD_ROOT /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/rw/4ysntjc15q5_z_w50tvj34cw0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode    setenv CCHROOT /var/folders/rw/4ysntjc15q5_z_w50tvj34cw0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app    setenv CODE_SIGNING_ALLOWED NO    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneSimulatorCodeSignContext    setenv COLOR_DIAGNOSTICS NO    setenv COMBINE_HIDPI_IMAGES NO    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/rw/4ysntjc15q5_z_w50tvj34cw0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/CompositeSDKs    setenv COMPRESS_PNG_FILES NO    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH emptyExample.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CREATE_INFOPLIST_SECTION_IN_BINARY NO    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEFAULT_KEXT_INSTALL_PATH /System/Library/Extensions    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH emptyExample.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/emptyExample.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME emptyExample.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH emptyExample.app/Executables    setenv EXECUTABLE_FOLDER_PATH emptyExample.app    setenv EXECUTABLE_NAME emptyExample    setenv EXECUTABLE_PATH emptyExample.app/emptyExample    setenv FILE_LIST /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH emptyExample.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME emptyExample.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER ofxiOS_Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO NO    setenv GCC_WARN_ABOUT_POINTER_SIGNEDNESS NO    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL NO    setenv GCC_WARN_PROTOTYPE_CONVERSION NO    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_FMODEX "\"../../../libs/fmodex/include\""    setenv HEADER_FREEIMAGE "\"../../../libs/FreeImage/include\""    setenv HEADER_FREETYPE "\"../../../libs/freetype/include\""    setenv HEADER_FREETYPE2 "\"../../../libs/freetype/include/freetype2\""    setenv HEADER_GLEW "\"../../../libs/glew/include\""    setenv HEADER_GLU "\"../../../libs/glu/include_ios\""    setenv HEADER_OF "\"../../../libs/openFrameworks/**\""    setenv HEADER_OFXACCELEROMETER "\"../../../addons/ofxAccelerometer/**\""    setenv HEADER_OFXIOS "\"../../../addons/ofxiOS/**\""    setenv HEADER_OFXMULTITOUCH "\"../../../addons/ofxMultiTouch/**\""    setenv HEADER_POCO "\"../../../libs/poco/include\""    setenv HEADER_RTAUDIO "\"../../../libs/rtaudio/include\""    setenv HEADER_SEARCH_PATHS "/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/include \"../../../libs/openFrameworks/**\" \"../../../addons/ofxiOS/**\" \"../../../addons/ofxMultiTouch/**\" \"../../../addons/ofxAccelerometer/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/rtaudio/include\" \"../../../libs/glu/include_ios\" \"../../../libs/openssl/include\" src"    setenv HEADER_SSL "\"../../../libs/openssl/include\""    setenv HEADER_TESS2 "\"../../../libs/tess2/include\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE ofxiOS-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH emptyExample.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH emptyExample.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/emptyExample.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER ann-kristinabel    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/emptyExample.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH emptyExample.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_DEPENDENCY_INFO_FILE /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/emptyExample_dependency_info.dat    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/emptyExample-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER YES    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_KEXT_INSTALL_PATH /Library/Extensions    setenv LIBRARY_SEARCH_PATHS "/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator "    setenv LIB_CRYPTO "\"../../../libs/openssl/lib/osx/crypto.a\""    setenv LIB_CRYPTO_IPHONE "\"../../../libs/openssl/lib/ios/crypto.a\""    setenv LIB_FREEIMAGE "\"../../../libs/FreeImage/lib/osx/freeimage.a\""    setenv LIB_FREEIMAGE_IPHONE "\"../../../libs/FreeImage/lib/ios/freeimage.a\""    setenv LIB_FREETYPE_IPHONE "\"../../../libs/freetype/lib/ios/freetype.a\""    setenv LIB_GLU "\"../../../libs/glu/lib/ios/glu.a\""    setenv LIB_GLU_IPHONE "\"../../../libs/glu/lib/ios/glu-ios.a\""    setenv LIB_POCOCRYPTO_IPHONE "\"../../../libs/poco/lib/ios/PocoCrypto.a\""    setenv LIB_POCOFOUNDATION_IPHONE "\"../../../libs/poco/lib/ios/PocoFoundation.a\""    setenv LIB_POCONETSSL_IPHONE "\"../../../libs/poco/lib/ios/PocoNetSSL.a\""    setenv LIB_POCONET_IPHONE "\"../../../libs/poco/lib/ios/PocoNet.a\""    setenv LIB_POCOUTIL_IPHONE "\"../../../libs/poco/lib/ios/PocoUtil.a\""    setenv LIB_POCOXML_IPHONE "\"../../../libs/poco/lib/ios/PocoXML.a\""    setenv LIB_POCOZIP_IPHONE "\"../../../libs/poco/lib/ios/PocoZip.a\""    setenv LIB_SSL "\"../../../libs/openssl/lib/osx/ssl.a\""    setenv LIB_SSL_IPHONE "\"../../../libs/openssl/lib/ios/ssl.a\""    setenv LIB_TESS "\"../../../libs/tess2/lib/osx/tess2.a\""    setenv LIB_TESS_IPHONE "\"../../../libs/tess2/lib/ios/tess2.a\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal/i386/emptyExample.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH emptyExample.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12E55    setenv MAC_OS_X_VERSION_ACTUAL 1084    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0804    setenv MISC_FLAGS "\"-ObjC\""    setenv MODULE_CACHE_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/ModuleCache    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Objects-normal    setenv OBJROOT /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates    setenv OF_CORE_HEADERS "\"../../../libs/openFrameworks/**\" \"../../../addons/ofxiOS/**\" \"../../../addons/ofxMultiTouch/**\" \"../../../addons/ofxAccelerometer/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/rtaudio/include\" \"../../../libs/glu/include_ios\" \"../../../libs/openssl/include\""    setenv OF_CORE_LIBS "\"-ObjC\"  \"../../../libs/FreeImage/lib/osx/freeimage.a\"        \"../../../libs/freetype/lib/ios/freetype.a\" \"../../../libs/FreeImage/lib/ios/freeimage.a\" \"../../../libs/poco/lib/ios/PocoNet.a\" \"../../../libs/poco/lib/ios/PocoNetSSL.a\" \"../../../libs/poco/lib/ios/PocoCrypto.a\" \"../../../libs/poco/lib/ios/PocoXML.a\" \"../../../libs/poco/lib/ios/PocoZip.a\" \"../../../libs/poco/lib/ios/PocoUtil.a\" \"../../../libs/poco/lib/ios/PocoFoundation.a\" \"../../../libs/tess2/lib/ios/tess2.a\" \"../../../libs/glu/lib/ios/glu.a\" \"../../../libs/glu/lib/ios/glu-ios.a\" \"../../../libs/openssl/lib/ios/ssl.a\" \"../../../libs/openssl/lib/ios/crypto.a\""    setenv OF_PATH ../../..    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "\"-ObjC\"  \"../../../libs/FreeImage/lib/osx/freeimage.a\"        \"../../../libs/freetype/lib/ios/freetype.a\" \"../../../libs/FreeImage/lib/ios/freeimage.a\" \"../../../libs/poco/lib/ios/PocoNet.a\" \"../../../libs/poco/lib/ios/PocoNetSSL.a\" \"../../../libs/poco/lib/ios/PocoCrypto.a\" \"../../../libs/poco/lib/ios/PocoXML.a\" \"../../../libs/poco/lib/ios/PocoZip.a\" \"../../../libs/poco/lib/ios/PocoUtil.a\" \"../../../libs/poco/lib/ios/PocoFoundation.a\" \"../../../libs/tess2/lib/ios/tess2.a\" \"../../../libs/glu/lib/ios/glu.a\" \"../../../libs/glu/lib/ios/glu-ios.a\" \"../../../libs/openssl/lib/ios/ssl.a\" \"../../../libs/openssl/lib/ios/crypto.a\""    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH emptyExample.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c++    setenv PKGINFO_FILE_PATH /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/PkgInfo    setenv PKGINFO_PATH emptyExample.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 11A465    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 70000    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH emptyExample.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH emptyExample.app/PrivateHeaders    setenv PRODUCT_NAME emptyExample    setenv PRODUCT_SETTINGS_PATH /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/ofxiOS-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT emptyExample    setenv PROJECT_DERIVED_FILE_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/DerivedSources    setenv PROJECT_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv PROJECT_FILE_PATH /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/emptyExample.xcodeproj    setenv PROJECT_NAME emptyExample    setenv PROJECT_TEMP_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build    setenv PROJECT_TEMP_ROOT /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates    setenv PUBLIC_HEADERS_FOLDER_PATH emptyExample.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator "    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH emptyExample.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk    setenv SDK_NAME iphonesimulator7.0    setenv SDK_PRODUCT_BUILD_VERSION 11A465    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH emptyExample.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/PrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH emptyExample.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv SRCROOT /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_KEXT_INSTALL_PATH /System/Library/Extensions    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME emptyExample    setenv TARGET_BUILD_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator    setenv TARGET_NAME emptyExample    setenv TARGET_TEMP_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build    setenv TEMP_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build    setenv TEMP_FILES_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build    setenv TEMP_FILE_DIR /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build    setenv TEMP_ROOT /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH emptyExample.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER ann-kristinabel    setenv USER_APPS_DIR /Users/ann-kristinabel/Applications    setenv USER_LIBRARY_DIR /Users/ann-kristinabel/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH emptyExample.app/version.plist    setenv VERSION_INFO_BUILDER ann-kristinabel    setenv VERSION_INFO_FILE emptyExample_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:emptyExample  PROJECT:emptyExample-\""    setenv WARNING_LDFLAGS -no_arch_warnings    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME emptyExample.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 5A1413    setenv XCODE_VERSION_ACTUAL 0500    setenv XCODE_VERSION_MAJOR 0500    setenv XCODE_VERSION_MINOR 0500    setenv XPCSERVICES_FOLDER_PATH emptyExample.app/XPCServices    setenv YACC yacc    setenv arch i386    setenv variant normal    /bin/sh -c /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/Script-9255DD331112741900D6945E.sh36"8E091E7D-D18E-4B3D-AC73-7E7154E4D37F-
+bE1EDE9FD-E290-49B4-A31E-E67D24B04942
+
+CProcessInfoPlistFile /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Info.plist /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/ofxiOS-Info.plist
+s401735646.886606
+e401735646.890468
+r1
+xProcessInfoPlistFile
+x/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Info.plist
+x/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/ofxiOS-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Process /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/ofxiOS-Info.plist128"ProcessInfoPlistFile DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Info.plist ofxiOS-Info.plist9814e3defff1b741^d8f5e3defff1b741^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/ofxiOS-Info.plist0000000000000000^944"ProcessInfoPlistFile DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Info.plist ofxiOS-Info.plist    cd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/ofxiOS-Info.plist -genpkginfo /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app/Info.plist36"C47DC6C8-797F-42E9-8A2A-DE16CFD0D8C2-
+bE1EDE9FD-E290-49B4-A31E-E67D24B04942
+
+CProcessPCH++ /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-hlgrefajhkkrlgegeecrbzfqjgya/ofxiOS_Prefix.pch.pch ofxiOS_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s401735646.989150
+e401735647.740734
+r1
+xProcessPCH++
+x/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-hlgrefajhkkrlgegeecrbzfqjgya/ofxiOS_Prefix.pch.pch
+xofxiOS_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/ofxiOS_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile ofxiOS_Prefix.pch229"ProcessPCH++ DerivedData/emptyExample/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-hlgrefajhkkrlgegeecrbzfqjgya/ofxiOS_Prefix.pch.pch ofxiOS_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler5a66fddefff1b741^c39fbddffff1b741^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/ofxiOS_Prefix.pch0000000000000000^5427"ProcessPCH++ DerivedData/emptyExample/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-hlgrefajhkkrlgegeecrbzfqjgya/ofxiOS_Prefix.pch.pch ofxiOS_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wno-protocol -Wdeprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -iquote /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/emptyExample-generated-files.hmap -I/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/emptyExample-own-target-headers.hmap -I/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/emptyExample-all-target-headers.hmap -iquote /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/emptyExample-project-headers.hmap -I/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiOS -I../../../addons/ofxiOS/src -I../../../addons/ofxiOS/src/app -I../../../addons/ofxiOS/src/core -I../../../addons/ofxiOS/src/events -I../../../addons/ofxiOS/src/gl -I../../../addons/ofxiOS/src/sound -I../../../addons/ofxiOS/src/utils -I../../../addons/ofxiOS/src/video -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -I../../../libs/openssl/include -Isrc -I/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/DerivedSources/i386 -I/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/emptyExample.build/Debug-iphonesimulator/emptyExample.build/DerivedSources -F/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-hlgrefajhkkrlgegeecrbzfqjgya/ofxiOS_Prefix.pch.dia -MMD -MT dependencies -MF /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-hlgrefajhkkrlgegeecrbzfqjgya/ofxiOS_Prefix.pch.d -c /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/ofxiOS_Prefix.pch -o /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Intermediates/PrecompiledHeaders/ofxiOS_Prefix-hlgrefajhkkrlgegeecrbzfqjgya/ofxiOS_Prefix.pch.pch36"B52AE01E-4707-4150-9C7B-2BA0D9FC0CDB-
+bE1EDE9FD-E290-49B4-A31E-E67D24B04942
+
+CProcessPCH++ /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Index/PrecompiledHeaders/ofxiOS_Prefix-arolvvaanheaeafcuspngclixmep_ast/ofxiOS_Prefix.pch.pch ofxiOS_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app
+s401735659.026528
+e401735659.129085
+r1
+xTouch
+x/Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection162"Touch /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app84"Touch DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app5ef706ebfff1b741^5f0c21ebfff1b741^---0#0#1#--544"Touch DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app    cd /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ann-kristinabel/Desktop/of_v0.8.0_ios_release/apps/myApps/emptyExample/DerivedData/emptyExample/Build/Products/Debug-iphonesimulator/emptyExample.app36"88756CFA-790A-406D-9F45-0EA68BB4F452-
+bE1EDE9FD-E290-49B4-A31E-E67D24B04942
+
